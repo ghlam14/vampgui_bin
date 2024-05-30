@@ -14,8 +14,12 @@ Please don't hesitate to reach out to me with your feedback, questions, or conce
 I'm grateful for your continued support and understanding as I work to make my GUI the best it can be. Together, we can build a product that meets the needs of our users and exceeds expectations.
 
 Warm regards,
+
  Author: G. Benabdellah
+ 
 Departement of physic
+
 University of Tiaret , Algeria
+
 E-mail ghlam.benabdellah@gmail.com
 
