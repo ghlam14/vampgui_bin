@@ -3,6 +3,14 @@ https://vampire.york.ac.uk/
 
 The VAMPgui is written using Python 3 code based on 'tkinter'. The GUI has been tested on the Linux platform (Ubuntu 20.04).
 
+add the enverenement to .bashrc as 
+
+  export PATH=/home/home_name/vampgui_bin-1.1.0:$PATH
+
+to run the gui open terminal in working directory:
+
+   vampgui.x
+
 I hope this message finds you well and enjoying the features of my GUI based on the Vampire 6 code manual. I wanted to take a moment to express my gratitude for your support and to address a matter of importance. 
 As a developer, I'm committed to providing you with the best possible user experience. However, I must acknowledge that my experience with the Vampire 6 code is still in its early stages. 
 While I've done my best to implement the functionalities outlined in the manual, there may be limitations or areas where my GUI falls short due to my current level of expertise.
