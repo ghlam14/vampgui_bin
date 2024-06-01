@@ -11,7 +11,8 @@ The VAMPgui is written using Python 3 code based on 'tkinter'. The GUI has been 
 
        vampgui.x
        
-![image](https://github.com/ghlam14/vampgui_bin/assets/103369846/ac5d6bb2-d50c-4595-a446-aac89cb586f0)
+![image](https://github.com/ghlam14/vampgui_bin/assets/103369846/eb864efd-483a-4fe3-a406-8ba8a9b432c9)
+
 
 I hope this message finds you well and enjoying the features of my GUI based on the Vampire 6 code manual. I wanted to take a moment to express my gratitude for your support and to address a matter of importance. 
 As a developer, I'm committed to providing you with the best possible user experience. However, I must acknowledge that my experience with the Vampire 6 code is still in its early stages. 
