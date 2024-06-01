@@ -5,7 +5,7 @@ The VAMPgui is written using Python 3 code based on 'tkinter'. The GUI has been 
 
  To add the environment to .bashrc, use the following command:
 
-       export PATH=/home/home_name/vampgui_bin-1.1.0:$PATH
+       export PATH=/home/home_name/VAMPgui_bin-1.1.0:$PATH
 
   To run the GUI, open a terminal in the working directory and execute:
 
